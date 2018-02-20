@@ -1,0 +1,6 @@
+c:\users\opilane\documents\visual studio 2017\Projects\fafafaa\fafafaa\bin\Debug\fafafaa.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\fafafaa\fafafaa\bin\Debug\fafafaa.exe
+c:\users\opilane\documents\visual studio 2017\Projects\fafafaa\fafafaa\bin\Debug\fafafaa.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\fafafaa\fafafaa\obj\Debug\fafafaa.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2017\Projects\fafafaa\fafafaa\obj\Debug\fafafaa.exe
+c:\users\opilane\documents\visual studio 2017\Projects\fafafaa\fafafaa\obj\Debug\fafafaa.pdb
